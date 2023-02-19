@@ -13,7 +13,7 @@ It is a bot that can answer buzzing questions about bumblebees or even share coo
 | !list      | A list of questions you can ask       |
 | !ask   | An answer to your question        | 
 | what is a bumblebee  | A link to Britannica about bumblebees      | 
-| !puns   | Funny bee jokes  | 
+| !puns   | Funny bee joke  | 
 | !funfacts   |  Facts about bumblebees  | 
 | @Buzz Bee  |  A bee generated image  | 
 
