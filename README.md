@@ -1,7 +1,7 @@
 # Be a Bee
 ## Submission for ElleHacks 2023
 ### Theme: Earth
-
+### Discord bot informs you about bumblebees and how you can help them.
 ## Inspiration
 With the theme of the four elements (fire, earth, wind, water), we aimed towards nature/environmental topics such as climate change, natural disasters, and endangered species. We also want this project to be educational and involve user interaction. This leads to either a game or chatbot. We then chose to do bumblebees as their population is declining over the years and it is strongly connected to the earth theme, with hopes of learning about bees (or "be a bee").
 
